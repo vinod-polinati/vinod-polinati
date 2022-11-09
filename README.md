@@ -1,4 +1,5 @@
-<img src="weez.jpeg">
+<h1>Vinod Polinati</h1>
+<img src="WEEZ.jpeg">
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
