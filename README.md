@@ -1,3 +1,4 @@
+<img src="weez.jpeg">
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
