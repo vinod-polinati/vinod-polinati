@@ -51,27 +51,27 @@ Supp <br />
 
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
-  <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
-  <code><a href="https://devdocs.io/c/"><img alt="C" title="C" src="./assets/c.png" height="42"></a></code>
-  <code><a href="https://devdocs.io/cpp/"><img alt="C++" title="C++" src="./assets/cpp.png" height="42"></a></code>
-  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
-  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
-  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
+  <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="python.png" height="42"></a></code>
+  <code><a href="https://devdocs.io/c/"><img alt="C" title="C" src="c.png" height="42"></a></code>
+  <code><a href="https://devdocs.io/cpp/"><img alt="C++" title="C++" src="cpp.png" height="42"></a></code>
+  <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="html.png" height="42"></a></code>
+  <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="css.png" height="42"></a></code>
+  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="actions.png" height="42"></a></code>
 </p>
 <br>
 
 <h1 align="center"> Languages/Frameworks I'm learning: </h1>
 <p align="center">
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
-  <code><a href="https://docs.python.org/3/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="js.png" height="42"></a></code>
+  <code><a href="https://docs.python.org/3/"><img alt="Python" title="Python" src="python.png" height="42"></a></code>
 </p>
 <br>
 
 <h1 align="center"> Environments I work with: </h1>
 <p align="center">
-  <code><a href="https://www.kalilinux.org/"><img alt="Kali Linux" title="Kali Linux" src="./assets/kalilinux.jpg" height="42"></a></code>
-  <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
-  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
+  <code><a href="https://www.kalilinux.org/"><img alt="Kali Linux" title="Kali Linux" src="kalilinux.jpg" height="42"></a></code>
+  <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="github.png" height="42"></a></code>
+  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="vscode.png" height="42"></a></code>
 </p>
 <br>
 
