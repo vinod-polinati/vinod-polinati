@@ -94,12 +94,12 @@ Supp <br />
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/vinod-polinati/Python-KeyLogger"><img align="left" width="45%" height="150px" src="https://github.com/vinod-polinati/Python-KeyLogger" alt="Siike"></a>
+    <a href="https://github.com/vinod-polinati/Python-KeyLogger"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=vinod-polinati&repo=Python-KeyLogger&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="Siike"></a>
   </p>
   <p align="center">&#8192;</p>
 <p align="center">&#8192;</p>
 <p align="center">&#8192;</p>
-
+<br>
 <p align="left">
   <a href="https://github.com/vinod-polinati?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
