@@ -1,7 +1,7 @@
 <h1>Vinod Polinati</h1>
 <img src="WEEZ.jpeg">
 <!-- Description about me -->
-<h2 align="center"> 🤔 About me 👨‍💻 </h2>
+<h2 align="center">  About me 👨‍💻 </h2>
 
 Supp <br />
 - I am <b>Vinod Polinati</b> better known as 'Vinod'🕵🏼‍♂️ <br />
