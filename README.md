@@ -15,7 +15,7 @@ Supp <br />
     <a href="https://t.me/vinod_polinati">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black">
     </a>
-    <a href="https://www.linkedin.com/in/sasi-vatsal-606195215/">
+    <a href="https://www.linkedin.com/in/vinod-polinati-77793b207/">
       <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
     </a>
     <a href="mailto:vinodpolinati@gmail.com">
