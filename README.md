@@ -5,7 +5,7 @@
 
 Supp <br />
 - I am <b>Vinod Polinati</b> better known as 'Vinod'🕵🏼‍♂️ <br />
-  - A Crazy, enthusiastic, energetic computer science engineering student skilled in leadership, with a strong foundation in logical reasoning, and cross-platform coding. In search of a role at a well reputed organisation a role where I can utilise my skills and also enhance the organisation's growth.<br />
+  - A Crazy, enthusiastic, energetic computer science engineering student skilled in leadership, with a strong foundation in logical reasoning.In search of a role at a well reputed organisation a role where I can utilise my skills and also enhance the organisation's growth.<br />
 - I am from <strong>India</strong><br />
 <br/><br/> 
 <hr>
@@ -24,7 +24,7 @@ Supp <br />
   </p>
 </h1>
 <hr>
-### 🧐 More About Me:
+🧐 More About Me:
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
