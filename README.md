@@ -1,7 +1,17 @@
 ![Profile Visits](https://komarev.com/ghpvc/?username=your-vinod-polinati)
 
 ## 🧸 About Me:
-Artificial Intelligence & Data Science Undergraduate at Vignan's Institute of Information Technology<br>I'm interested in working as Machine Learning , Deep Learning , Data Science Intern<br>Currently cooking few Machine Learning Projects.
+Artificial Intelligence & Data Science Undergraduate at Vignan's Institute of Information Technology<br>Currently a Python Developer Intern. Currently cooking few Machine Learning Projects.
+<ht>
+
+- 🤖 I’m currently working on Data Mining .
+- 💻 I’m currently learning LLM's and ML Algorithms.
+- 🤠 I’m looking to collaborate with like minded individuals.
+- 💫 I always welcome Open-Source-Contributors.
+- 💬 Ask me about Python and Data Science.
+- 🔱 Pronouns: He/Him
+
+- ⚡ Fun fact: I love to code with coffee ☕ 
 
 
 ## ▽ Socials:
