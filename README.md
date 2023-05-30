@@ -1,5 +1,7 @@
 ![Profile Visits](https://komarev.com/ghpvc/?username=your-vinod-polinati)
 
+[![ProfileBanner](https://github.com/vinod-polinati/vinod-polinati/blob/main/bopdike.png?raw=true)](https://github.com/vinod-polinati)
+
 ## 🧸 About Me:
 Artificial Intelligence & Data Science Undergraduate at Vignan's Institute of Information Technology<br>Currently a Python Developer Intern. Currently cooking few Machine Learning Projects.
 <ht>
