@@ -26,12 +26,3 @@ Artificial Intelligence & Data Science Undergraduate at Vignan's Institute of In
 ![](https://github-readme-stats.vercel.app/api?username=vinod-polinati&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vinod-polinati&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinod-polinati&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 𓅩 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=vinod_polinati)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-
-## 🎧 Favourite Song
-<a href="https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v" target="_blank">
-  <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png" alt="Spotify Banner" style="width: 200px; height: auto;">
-</a>
