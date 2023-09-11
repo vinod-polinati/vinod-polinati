@@ -7,7 +7,7 @@ Artificial Intelligence & Data Science Undergraduate at Vignan's Institute of In
 <ht>
 
 - 🤖 I’m currently working on Data Mining.
-- 💻 I’m currently learning LLM's and ML Algorithms.
+- 💻 I’m currently learning LLM's 
 - 🤠 I’m looking to collaborate with like-minded individuals.
 - 💫 I always welcome Open-Source Contributors.
 - 💬 Ask me about Python and Data Science.
