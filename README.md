@@ -12,7 +12,7 @@ A Passionate Machine Learning Engineer . <br>
 <a href="https://www.kaggle.com/vinodpolinati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vinodpolinati" height="30" width="40" /></a>
 <a href="https://instagram.com/vinod_polinati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinod_polinati" height="30" width="40" /></a>
 <a href="=https://twitter.com/vinod_polinati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinodpolinati" height="30" width="40" /></a>
-<a href="=https://www.linkedin.com/in/polinati-vinod" target="blank"><img align="center" src="icons8-linkedin.svg" alt="vinodpolinati" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/polinati-vinod" target="blank"><img align="center" src="icons8-linkedin.svg" alt="vinodpolinati" height="30" width="40" /></a>
   
 </p>
 
