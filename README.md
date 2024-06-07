@@ -1,18 +1,19 @@
 ![Profile Visits](https://komarev.com/ghpvc/?username=your-vinod-polinati)
 ## 🧸 About Me:
-Junior Year Undergrad at Vignan's IIT. <br>
+A Passionate Machine Learning Engineer . <br>
 <ht>
 
 - 🤖 Exploring the field of Machine Learning.
-- 💻 Currently learning LLM's 
-- 💫 I always welcome Open-Source Contributors.
-- 💬 Ask me about Python and Data Science.
+- 💻 Currently learning Computer Vision 
+- 💬 Ask me about Python and Machine Learning.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.kaggle.com/vinodpolinati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vinodpolinati" height="30" width="40" /></a>
 <a href="https://instagram.com/vinod_polinati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinod_polinati" height="30" width="40" /></a>
 <a href="=https://twitter.com/vinod_polinati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinodpolinati" height="30" width="40" /></a>
+<a href="=https://www.linkedin.com/in/polinati-vinod" target="blank"><img align="center" src="icons8-linkedin.svg" alt="vinodpolinati" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
