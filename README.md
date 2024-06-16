@@ -3,7 +3,7 @@
 A Passionate Machine Learning Engineer . <br>
 <ht>
 
-- 🤖 Exploring the field of Machine Learning.
+- 🤖 Exploring the field of AI.
 - 💻 Currently learning Computer Vision 
 - 💬 Ask me about Python and Machine Learning.
 
