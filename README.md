@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@vinod_polinati-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/vinod_polinati/)](https://instagram.com/vinod_polinati)
 [![Gmail Badge](https://img.shields.io/badge/-vinod_polinati-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vinodd.polinati@gmail.com)](mailto:vinodd.polinati@gmail.com)
 
-- 🔭 Currently interning at [NRSC](https://www.nrsc.gov.in/) ; previously interned at [AegionDynamic](https://www.aegiondynamic.com/) as ML Intern
+- 🔭 Former Intern at [NRSC](https://www.nrsc.gov.in/) ; previously interned at [AegionDynamic](https://www.aegiondynamic.com/) as ML Intern
 - 💬 Open to discussions on Machine Learning & Generative AI
 - 📫 Contact me at vinodd.polinati@gmail.com
 ## 📊 GitHub Stats:
