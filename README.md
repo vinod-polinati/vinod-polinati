@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@vinod_polinati-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/vinod_polinati/)](https://instagram.com/vinod_polinati)
 [![Gmail Badge](https://img.shields.io/badge/-vinod_polinati-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vinodd.polinati@gmail.com)](mailto:vinodd.polinati@gmail.com)
 
-- 💻 Currently ASE at [StarTecq](https://www.startecq.com/)
+- 💻 Currently Founding SWE at [StarTecq](https://www.startecq.com/)
 - 💻 Prev Applied AI at [NRSC](https://www.nrsc.gov.in/) ; Ex ML Research at [AegionDynamic](https://www.aegiondynamic.com/) 
 - 💬 Open to discussions on Machine Learning & Agentic AI
 - 📫 Contact me at vinodd.polinati@gmail.com
