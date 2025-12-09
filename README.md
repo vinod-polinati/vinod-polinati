@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@vinod_polinati-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vinod_polinati)](https://twitter.com/vinod_polinati)
 [![Gmail Badge](https://img.shields.io/badge/-vinod_polinati-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vinodd.polinati@gmail.com)](mailto:vinodd.polinati@gmail.com)
 
-- 💻 Currently Associate SWE at [StarTecq](https://www.startecq.com/)
+- 💻 Currently AI Engineer at [Statslane](https://www.statslane.com/)
 - 🔬 Prev Applied AI at [NRSC](https://www.nrsc.gov.in/) ; Ex ML Research at [AegionDynamic](https://www.aegiondynamic.com/) 
 - 💬 Open to discussions on Machine Learning & Agentic AI
 - 📫 Contact me at vinodd.polinati@gmail.com
