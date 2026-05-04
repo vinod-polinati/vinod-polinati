@@ -6,4 +6,4 @@
 [LinkedIn](https://www.linkedin.com/in/polinati-vinod)
 
 
-![](https://visitcount.itsvg.in/api?id=vinod-polinati&icon=3&color=11)
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=vinod-polinati&label=Visitors&color=004225&style=flat" alt="vinod" /> </p>
